@@ -1,0 +1,18 @@
+
+
+
+
+{
+
+    "fullName":"Elon",
+    "age":45,
+    "city":"LA",
+    "isMarried":true,
+    "skills":["HTML","CSS","JS","ML AI","DS"],
+    "marks":{
+        "phy":90,
+        "Eng":60,
+        "MATH":99
+    },
+    "Weight":null
+}
