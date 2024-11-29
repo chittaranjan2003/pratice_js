@@ -26,7 +26,7 @@ array.sort((n1,n2)=>{
     //return n1>n2 ? -1:1;
 });
 console.log(array);
-
+//this is array sort
 
 
 
