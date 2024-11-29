@@ -29,6 +29,8 @@ array.sort((n1,n2)=>{
 console.log(array);
 //this is array sort
  //This is array sorting in number 
+ //array sorting
+ //array sorting in number
 
 
 
