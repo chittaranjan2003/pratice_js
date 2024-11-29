@@ -32,6 +32,8 @@ console.log(array);
  //array sorting
  //array sorting in number
 
+//array
+
 
 
 
