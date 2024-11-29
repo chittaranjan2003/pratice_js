@@ -1,6 +1,6 @@
   // 'use strict'
-// greet="Good Evening";
-// console.log(greet);
+ greet="Good Evening";
+ console.log(greet);
  
 /*person={
     firstName:"Munu"
@@ -8,11 +8,11 @@
 console.log(person);*/
 
 
-/*function sum(n1,n1){
-    console.log(n1);//through error using strict mode.
-    console.log(n1+n1);//error using strict mode.
+function sum(n1,n1){
+    //console.log(n1);//through error using strict mode.
+   // console.log(n1+n1);//error using strict mode.
 }
-sum(60,80);*/
+sum(60,80);
 
 
 
