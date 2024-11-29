@@ -28,6 +28,9 @@ array.sort((n1,n2)=>{
 console.log(array);
 //array sorting
 
+//array sorting
+//array sorting
+
 
 
 
